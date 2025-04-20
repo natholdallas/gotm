@@ -1,0 +1,16 @@
+{
+  "AppName": "FiberGormTemplate",
+  "AppPort": ":8080",
+  "DevMode": false,
+  "SecretKey": "uUH61wsKzGvC1B9",
+  "WebPath": "web/dist",
+  "MediaPath": "media",
+  "MediaCron": "0 0 0 * * ?",
+  "CacheCron": "0 0 0 * * ?",
+  "DBName": "template",
+  "DBQuery": "charset=utf8mb4&parseTime=True&loc=Local",
+  "DBPort": "3306",
+  "Hostname": "localhost",
+  "Username": "",
+  "Password": ""
+}

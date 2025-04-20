@@ -1,0 +1,9 @@
+.idea
+.vscode
+.fleet
+
+/bin
+/media
+/docs
+/runtime
+/dist
